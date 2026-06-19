@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  SITEMAP.XML — Rudra Real Estate Pvt. Ltd.
+
+  HOW TO USE:
+  1. Replace "https://www.rudrarealestate.in" with your actual domain
+  2. Upload this file to your root website folder
+  3. Go to: https://search.google.com/search-console
+  4. Add your site → Submit sitemap URL:
+     https://www.rudrarealestate.in/sitemap.xml
+  5. Google will index your site faster!
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.rudrarealestate.in/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Properties section -->
+  <url>
+    <loc>https://www.rudrarealestate.in/#properties</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- About section -->
+  <url>
+    <loc>https://www.rudrarealestate.in/#about</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Services section -->
+  <url>
+    <loc>https://www.rudrarealestate.in/#services</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact section -->
+  <url>
+    <loc>https://www.rudrarealestate.in/#contact</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
